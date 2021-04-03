@@ -12,7 +12,7 @@
     "license": "MIT",
     "homepage": "https://github.com/fetzi/server-timing",
     "require": {
-        "php": "^7.2",
+        "php": "^7.2 || ^8.0",
         "psr/http-server-middleware": "^1.0"
     },
     "require-dev": {
